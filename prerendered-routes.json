@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/",
+    "/inicio",
+    "/inicio/404",
+    "/inicio/margarita",
+    "/inicio/tequila",
+    "/inicio/vodka",
+    "/inicio/wine"
+  ]
+}
